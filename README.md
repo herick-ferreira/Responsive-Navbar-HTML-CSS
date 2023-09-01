@@ -7,3 +7,8 @@
 <br/>
 
 <p><b><a href="https://herick-ferreira.github.io/Responsive-Navbar-HTML-CSS/">Link do Site</b></a></p>
+
+
+<p>
+  <img src="./images/site.jpg"/>
+</p>

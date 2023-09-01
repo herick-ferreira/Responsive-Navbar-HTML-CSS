@@ -10,5 +10,5 @@
 
 
 <p>
-  <img src="./images/site.jpg"/>
+  <img src="./imagens/site.jpg"/>
 </p>
